@@ -1,0 +1,12 @@
+0
+.2 roles for login
+a) SuperAdmin
+- can create/read/update/delete STAFFS and STUDENTS and BOOKS
+
+b) Staffs
+- can create/read/update/delete STUDENTS and BOOKS
+- can issue book and return book
+
+c) a 1 page website which displays all the books available in the library
+
+Note: Database ma Student and Book and Staffs ko attributes chai aafai sochera raakhda huncha
